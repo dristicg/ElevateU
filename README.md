@@ -1,4 +1,4 @@
-(The file `c:\Users\drish\Desktop\All in one file\ElevateYou\README.md` exists, but is empty)
+
 # ElevateYou
 
 ElevateYou is a small full-stack resume analysis application. The client (React + Vite) provides a simple UI where users can paste or upload resume text, and the server (Express) analyzes the resume using a local Ollama model or OpenAI (cloud) and returns structured feedback (summary, strengths, improvements, ATS keywords).
